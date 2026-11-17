@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0E2A5C"/>
+  <path d="M0 360 L512 300 L512 512 L0 512 Z" fill="#1446A0"/>
+  <g transform="translate(256 236)">
+    <circle r="150" fill="#FFC629"/>
+    <path d="M-20 -148 C-70 -60 -60 30 0 0 M0 0 C70 -40 140 -10 146 38 M0 0 C-30 70 -100 110 -142 60"
+          fill="none" stroke="#0E2A5C" stroke-width="22" stroke-linecap="round"/>
+    <circle r="150" fill="none" stroke="#0E2A5C" stroke-width="22"/>
+  </g>
+  <text x="256" y="470" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-style="italic" font-weight="900" font-size="78" fill="#FFFFFF" letter-spacing="4">JUMP</text>
+</svg>
