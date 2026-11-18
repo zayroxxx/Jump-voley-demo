@@ -7,6 +7,8 @@ comprobante, avisos del profe, registro de alumnos y juegos de vóley.
 
 - Entrar como profesor: botón *Entrar como profesor*, PIN **1234**.
 - Entrar como alumno: *Alumno de ejemplo*, o crea una cuenta con tu correo y acéptala desde el profesor.
+- Cuenta familiar de ejemplo: en *Alumno de ejemplo* elige **Paula Morales**, apoderada de dos hermanos
+  (Agustín y Emilia).
 - Para instalarla en el celular: en Chrome, menú ⋮ → *Instalar app*; en iPhone (Safari), Compartir →
   *Agregar a pantalla de inicio*.
 
